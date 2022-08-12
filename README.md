@@ -1,6 +1,6 @@
 # flutter_bloc_project
 
-A new Flutter project.
+A new Flutter project with Bloc Version 8.
 
 ## Getting Started
 
